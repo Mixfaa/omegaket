@@ -29,6 +29,8 @@
   "keyToString": {
     "JUnit.Task1Test.executor": "Run",
     "JUnit.Task2Test.executor": "Run",
+    "JUnit.Task3Test.executor": "Run",
+    "JUnit.Task3Test.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
@@ -42,7 +44,7 @@
       <recent name="C:\Users\mishu\programming_projects\java_kotlin\java_labs\src\main\java\com\mixfa\lab1\task1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Task1Test">
+  <component name="RunManager" selected="JUnit.Task3Test.test">
     <configuration name="Task1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_sandbox" />
       <option name="PACKAGE_NAME" value="lab1.task1" />
@@ -61,8 +63,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_sandbox" />
+      <option name="PACKAGE_NAME" value="lab1.task3" />
+      <option name="MAIN_CLASS_NAME" value="lab1.task3.Task3Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_sandbox" />
+      <option name="PACKAGE_NAME" value="lab1.task3" />
+      <option name="MAIN_CLASS_NAME" value="lab1.task3.Task3Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Task3Test.test" />
+        <item itemvalue="JUnit.Task3Test" />
         <item itemvalue="JUnit.Task1Test" />
         <item itemvalue="JUnit.Task2Test" />
       </list>
