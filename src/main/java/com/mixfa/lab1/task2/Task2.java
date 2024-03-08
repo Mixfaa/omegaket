@@ -1,10 +1,10 @@
-package com.mixfa.lab1.task6;
+package com.mixfa.lab1.task2;
 
 import java.math.BigInteger;
 import java.security.SecureRandom;
 
-public class Task6 {
-    private static BigInteger powByMultiply(BigInteger integer, int pow) {
+public class Task2 {
+    public static BigInteger powByMultiply(BigInteger integer, int pow) {
         var result = integer.multiply(integer);
 
         for (int i = 2; i < pow; i++)
