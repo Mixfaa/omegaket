@@ -1,4 +1,4 @@
-package com.mixfa.lab2.task4;
+package com.mixfa.lab2.old.task4;
 
 import java.io.IOException;
 import java.io.PrintWriter;

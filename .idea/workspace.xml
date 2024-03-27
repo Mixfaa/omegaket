@@ -30,6 +30,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Subarray.executor": "Run",
+    "Application.UaDate.executor": "Run",
     "JUnit.Task1Test.executor": "Run",
     "JUnit.Task2Test.executor": "Run",
     "JUnit.Task3Test.executor": "Run",
@@ -52,9 +54,23 @@
       <recent name="C:\Users\mishu\programming_projects\java_kotlin\java_labs\src\main\java\com\mixfa\lab1\task1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Subarray">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mixfa.lab2.task1.Main" />
+      <module name="java_sandbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mixfa.lab2.task5.Subarray" />
+      <module name="java_sandbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UaDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mixfa.lab2.task2.UaDate" />
       <module name="java_sandbox" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,24 +80,6 @@
       <module name="java_sandbox" />
       <option name="PACKAGE_NAME" value="lab1.task1" />
       <option name="MAIN_CLASS_NAME" value="lab1.task1.Task1Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java_sandbox" />
-      <option name="PACKAGE_NAME" value="lab1.task2" />
-      <option name="MAIN_CLASS_NAME" value="lab1.task2.Task2Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java_sandbox" />
-      <option name="PACKAGE_NAME" value="lab1.task3" />
-      <option name="MAIN_CLASS_NAME" value="lab1.task3.Task3Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Subarray" />
+        <item itemvalue="Application.UaDate" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.Task1Test" />
         <item itemvalue="JUnit.Task3Test.test" />
-        <item itemvalue="JUnit.Task3Test" />
-        <item itemvalue="JUnit.Task2Test" />
       </list>
     </recent_temporary>
   </component>

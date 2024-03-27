@@ -1,4 +1,4 @@
-package com.mixfa.lab2.task3;
+package com.mixfa.lab2.old.task3;
 
 import java.util.stream.IntStream;
 

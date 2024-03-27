@@ -1,4 +1,4 @@
-package com.mixfa.lab2.task2;
+package com.mixfa.lab2.old.task2;
 
 import java.io.File;
 import java.io.IOException;

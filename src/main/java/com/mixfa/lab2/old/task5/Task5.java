@@ -1,4 +1,4 @@
-package com.mixfa.lab2.task5;
+package com.mixfa.lab2.old.task5;
 
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.io.json.JettisonMappedXmlDriver;
