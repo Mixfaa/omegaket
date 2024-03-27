@@ -13,6 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -27,24 +29,37 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "JUnit.Task1Test.executor": "Run",
     "JUnit.Task2Test.executor": "Run",
     "JUnit.Task3Test.executor": "Run",
     "JUnit.Task3Test.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.preview.features.used": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/mishu/programming_projects/java_kotlin/java_labs/src/main/java/com/mixfa/lab1/task1",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "last_opened_file_path": "C:/Users/mishu/programming_projects/java_kotlin/java_labs/src/main/java/com/mixfa/lab2/task1",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mishu\programming_projects\java_kotlin\java_labs\src\main\java\com\mixfa\lab2\task1" />
       <recent name="C:\Users\mishu\programming_projects\java_kotlin\java_labs\src\main\java\com\mixfa\lab1\task1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Task3Test.test">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mixfa.lab2.task1.Main" />
+      <module name="java_sandbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_sandbox" />
       <option name="PACKAGE_NAME" value="lab1.task1" />
@@ -84,9 +99,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.Task1Test" />
         <item itemvalue="JUnit.Task3Test.test" />
         <item itemvalue="JUnit.Task3Test" />
-        <item itemvalue="JUnit.Task1Test" />
         <item itemvalue="JUnit.Task2Test" />
       </list>
     </recent_temporary>
@@ -95,6 +111,7 @@
     <attachedChunks>
       <set>
         <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
       </set>
     </attachedChunks>
   </component>

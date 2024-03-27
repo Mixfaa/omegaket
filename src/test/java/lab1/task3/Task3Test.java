@@ -13,7 +13,7 @@ public class Task3Test {
     @Test
     public void test() {
         var random = new Random();
-        var integeres = new ArrayList<BigInteger>(
+        var integeres = new ArrayList<>(
                 List.of(
                         new BigInteger(32, random),
                         new BigInteger(32, random),
